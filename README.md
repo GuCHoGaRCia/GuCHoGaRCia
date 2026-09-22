@@ -18,7 +18,7 @@ y escalables.
 
 ---
 
-## 🚗 Enjunin Motors
+## 🚗 enjunin Motors
 
 **Portal multi-tenant de avisos automotores**: cada concesionaria publica
 su catálogo en su propio subdominio (`agencia.enjunin.com.ar`) con panel
