@@ -1,8 +1,6 @@
 ![Portada](imagenes/portada.jpg)
 
-# 👋 Hola, soy Gucho
-
-<img src="imagenes/perfil.jpg" width="140" alt="Foto de perfil de Gucho" />
+# 👋 Hola, soy Gucho Garcia
 
 Desarrollador de **Argentina** con **+30 años** de trayectoria ininterrumpida
 —de la era del DOS y los módems de 56k a la explosión de la IA— y foco
