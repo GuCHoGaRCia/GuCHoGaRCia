@@ -1,10 +1,22 @@
+![Portada](imagenes/portada.jpg)
+
 # 👋 Hola, soy Gucho
 
-Desarrollador de **Argentina**. PHP y bases de datos son mi fuerte; también
-JavaScript y algo de Docker. Me gustan los proyectos que se pueden explicar
-en una línea y sostener en producción sin drama.
+<img src="imagenes/perfil.jpg" width="140" alt="Foto de perfil de Gucho" />
+
+Desarrollador de **Argentina** con **+30 años** de trayectoria ininterrumpida
+—de la era del DOS y los módems de 56k a la explosión de la IA— y foco
+actual en **IA**: desde hace +2 años investigo y aplico modelos, agentes
+autónomos y APIs de LLM, integrándolos a entornos productivos para
+potenciar la lógica de negocio. Escribo `.NET`, `C#`, `Python`, `Go`,
+`PHP`, `JavaScript` y `VueJS`.
+
+Directo, proactivo y perfeccionista: disfruto colaborar con equipos
+multidisciplinarios y convertir necesidades complejas en soluciones robustas
+y escalables.
 
 🌐 [www.guchogarcia.com.ar](https://www.guchogarcia.com.ar)
+💼 [linkedin.com/in/guchogarcia](https://www.linkedin.com/in/guchogarcia)
 
 ---
 
@@ -21,7 +33,7 @@ del repositorio.
 👉 **[Ver el showcase público](https://github.com/GuCHoGaRCia/enjunin-motors)**
 — descripción, stack y capturas.
 
-## 🛠 Stack
+## 🛠 Stack de Enjunin Motors
 
 `PHP 8` · `MySQL/MariaDB` · `JavaScript` · `Apache + cPanel` · `Git`
 
