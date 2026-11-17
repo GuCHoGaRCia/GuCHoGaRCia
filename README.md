@@ -14,6 +14,19 @@ Escribo `.NET`, `C#`, `Python`, `Go`, `PHP`, `JavaScript` y `VueJS`.
 
 ---
 
+## 🚗 enjunin Motors
+
+**Portal multi-tenant de avisos automotores**: cada concesionaria publica
+su catálogo en su propio subdominio (`agencia.enjunin.com.ar`) con panel
+propio, fotos, consultas de clientes y un panel central de plataforma.
+
+🔒 El código fuente es privado, pero **su actividad cuenta en el gráfico de
+abajo** 👇 — GitHub solo muestra el conteo de contribuciones, sin detalles
+del repositorio.
+
+👉 **[Ver el showcase público](https://github.com/GuCHoGaRCia/enjunin-motors)**
+— descripción, stack y capturas.
+
 ## 📊 Actividad en Git
 
 <p align="center">
@@ -21,9 +34,9 @@ Escribo `.NET`, `C#`, `Python`, `Go`, `PHP`, `JavaScript` y `VueJS`.
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuCHoGaRCia&layout=compact&hide_border=true" />
 </p>
 
-## 🛠 Stack
+## 🛠 Stack de Enjunin Motors
 
-`PHP` · `.NET` · `C#` · `Python` · `Go` · `JavaScript` · `VueJS` · `MySQL/MariaDB` · `Apache + cPanel` · `Git`
+`PHP 8` · `MySQL/MariaDB` · `JavaScript` · `Apache + cPanel` · `Git`
 
 ## 📌 También en mi perfil
 
