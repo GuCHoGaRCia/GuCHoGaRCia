@@ -35,21 +35,21 @@ del repositorio.
 </p>
 
 <p align="center">
-  <svg height="14" width="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><circle cx="7" cy="7" r="7" fill="#777BB4"/></svg> PHP
+  <img height="16" alt="PHP" src="https://img.shields.io/badge/-777BB4?logo=php&logoColor=white&style=flat" /> PHP
   &nbsp;·&nbsp;
-  <svg height="14" width="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><circle cx="7" cy="7" r="7" fill="#FF2D20"/></svg> Laravel
+  <img height="16" alt="Laravel" src="https://img.shields.io/badge/-FF2D20?logo=laravel&logoColor=white&style=flat" /> Laravel
   &nbsp;·&nbsp;
-  <svg height="14" width="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><circle cx="7" cy="7" r="7" fill="#FB70A9"/></svg> Livewire
+  <img height="16" alt="Livewire" src="https://img.shields.io/badge/-FB70A9?logo=livewire&logoColor=white&style=flat" /> Livewire
   &nbsp;·&nbsp;
-  <svg height="14" width="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><circle cx="7" cy="7" r="7" fill="#4479A1"/></svg> MySQL
+  <img height="16" alt="MySQL" src="https://img.shields.io/badge/-4479A1?logo=mysql&logoColor=white&style=flat" /> MySQL
   &nbsp;·&nbsp;
-  <svg height="14" width="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><circle cx="7" cy="7" r="7" fill="#38B2AC"/></svg> Tailwind CSS
+  <img height="16" alt="Tailwind CSS" src="https://img.shields.io/badge/-38B2AC?logo=tailwindcss&logoColor=white&style=flat" /> Tailwind CSS
   &nbsp;·&nbsp;
-  <svg height="14" width="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><circle cx="7" cy="7" r="7" fill="#F7DF1E"/></svg> JavaScript
+  <img height="16" alt="JavaScript" src="https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=black&style=flat" /> JavaScript
   &nbsp;·&nbsp;
-  <svg height="14" width="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><circle cx="7" cy="7" r="7" fill="#4FC08D"/></svg> Vue.js
+  <img height="16" alt="Vue.js" src="https://img.shields.io/badge/-4FC08D?logo=vuedotjs&logoColor=white&style=flat" /> Vue.js
   &nbsp;·&nbsp;
-  <svg height="14" width="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><circle cx="7" cy="7" r="7" fill="#F05032"/></svg> Git
+  <img height="16" alt="Git" src="https://img.shields.io/badge/-F05032?logo=git&logoColor=white&style=flat" /> Git
 </p>
 
 <!--
