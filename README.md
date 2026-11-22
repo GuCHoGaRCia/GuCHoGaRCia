@@ -13,7 +13,7 @@ Escribo `.NET`, `C#`, `Python`, `Go`, `PHP`, `JavaScript` y `VueJS`.
 💼 [linkedin.com/in/guchogarcia](https://www.linkedin.com/in/guchogarcia)
 
 ---
-/*
+<!--
 ## 🚗 enjunin Motors
 
 **Portal multi-tenant de avisos automotores**: cada concesionaria publica
@@ -26,7 +26,7 @@ del repositorio.
 
 👉 **[Ver el showcase público](https://github.com/GuCHoGaRCia/enjunin-motors)**
 — descripción, stack y capturas.
-*/
+-->
 ## 📊 Actividad en Git
 
 <p align="center">
