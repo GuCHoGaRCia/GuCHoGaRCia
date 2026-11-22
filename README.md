@@ -33,6 +33,25 @@ del repositorio.
   <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GuCHoGaRCia&show_icons=true&include_all_commits=true&hide_border=true" />
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuCHoGaRCia&layout=compact&hide_border=true" />
 </p>
+
+<p align="center">
+  <svg height="14" width="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><circle cx="7" cy="7" r="7" fill="#777BB4"/></svg> PHP
+  &nbsp;·&nbsp;
+  <svg height="14" width="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><circle cx="7" cy="7" r="7" fill="#FF2D20"/></svg> Laravel
+  &nbsp;·&nbsp;
+  <svg height="14" width="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><circle cx="7" cy="7" r="7" fill="#FB70A9"/></svg> Livewire
+  &nbsp;·&nbsp;
+  <svg height="14" width="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><circle cx="7" cy="7" r="7" fill="#4479A1"/></svg> MySQL
+  &nbsp;·&nbsp;
+  <svg height="14" width="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><circle cx="7" cy="7" r="7" fill="#38B2AC"/></svg> Tailwind CSS
+  &nbsp;·&nbsp;
+  <svg height="14" width="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><circle cx="7" cy="7" r="7" fill="#F7DF1E"/></svg> JavaScript
+  &nbsp;·&nbsp;
+  <svg height="14" width="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><circle cx="7" cy="7" r="7" fill="#4FC08D"/></svg> Vue.js
+  &nbsp;·&nbsp;
+  <svg height="14" width="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><circle cx="7" cy="7" r="7" fill="#F05032"/></svg> Git
+</p>
+
 <!--
 ## 🛠 Stack de Enjunin Motors
 
