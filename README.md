@@ -8,10 +8,10 @@ Desarrollador con +30 años de experiencia —de la era del DOS y los módems de
 explosión de la IA— que hoy investiga y aplica modelos, agentes autónomos y APIs de LLM
 en entornos productivos para potenciar la lógica de negocio.
 Escribo `.NET`, `C#`, `Python`, `Go`, `PHP`, `JavaScript` y `VueJS`.
-
+<!--
 🌐 [www.guchogarcia.com.ar](https://www.guchogarcia.com.ar) ·
 💼 [linkedin.com/in/guchogarcia](https://www.linkedin.com/in/guchogarcia)
-
+-->
 ---
 <!--
 ## 🚗 enjunin Motors
@@ -33,7 +33,7 @@ del repositorio.
   <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GuCHoGaRCia&show_icons=true&include_all_commits=true&hide_border=true" />
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuCHoGaRCia&layout=compact&hide_border=true" />
 </p>
-
+<!--
 ## 🛠 Stack de Enjunin Motors
 
 `PHP 8` · `MySQL/MariaDB` · `JavaScript` · `Apache + cPanel` · `Git`
@@ -44,3 +44,4 @@ del repositorio.
 - [`sistemaceo`](https://github.com/GuCHoGaRCia/sistemaceo)
 - Forks que uso: [`cakephp/authentication`](https://github.com/GuCHoGaRCia/authentication) ·
   [`observability`](https://github.com/GuCHoGaRCia/observability)
+-->
